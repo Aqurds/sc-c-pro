@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./assets/image/book-icon.png" alt="logo" width="140"  height="auto" />
+  <img src="./assets/image/readme_image.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome Book</b></h3>
+  <h3><b>ConnectColleague</b></h3>
 
 </div>
 
@@ -31,10 +31,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Book <a name="about-project"></a>
+# 📖 ConnectColleague <a name="about-project"></a>
 
 
-**Awesome Book** is a application to organize books
+**ConnectColleague** is an application to connect with company's internam memebers (like Scrum habit)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,7 +44,11 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML & Javascript</li>
+    <li>React</li>
+    <li>Sanity</li>
+    <li>TailwindCSS</li>
+    <li>React Google Login</li>
+    <li>Craco (for testing)</li>
   </ul>
 </details>
 
