@@ -67,7 +67,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://aqurds.github.io/mv-bl/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,11 +134,6 @@ Example command:
 - Twitter: [@Aqurds](https://twitter.com/Aqurds)
 - LinkedIn: [omaraqurds](https://linkedin.com/in/omaraqurds)
 
-## 👤 Authors 2 <a name="authors"></a>
-👤 Sadaf Daneshgar
-- GitHub: [@githubhandle](https://github.com/sadaf-Daneshgar)
-- Twitter: [@twitterhandle](https://twitter.com/SadafDaneshgar)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sadaf-barekzai-00480a242)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
